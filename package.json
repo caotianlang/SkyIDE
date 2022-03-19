@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/caotianlang/SkyIDE/issues"
   },
-  "homepage": "https://github.com/caotianlang/SkyIDE#readme"
+  "homepage": "https://github.com/caotianlang/SkyIDE#readme",
+  "dependencies": {
+    "electron-tabs": "^0.15.0"
+  }
 }

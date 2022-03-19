@@ -18,7 +18,6 @@
   "homepage": "https://github.com/caotianlang/SkyIDE#readme",
   "dependencies": {
     "codemirror": "^5.65.2",
-    "electron": "^17.1.2",
     "electron-tabs": "^0.15.0"
   }
 }

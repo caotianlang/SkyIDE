@@ -1,0 +1,19 @@
+{
+  "name": "skyide",
+  "version": "1.0.0",
+  "description": "An IDE",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caotianlang/SkyIDE.git"
+  },
+  "author": "caotianlang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caotianlang/SkyIDE/issues"
+  },
+  "homepage": "https://github.com/caotianlang/SkyIDE#readme"
+}

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/caotianlang/SkyIDE#readme",
   "dependencies": {
+    "@picocss/pico": "^1.5.0",
     "codemirror": "^5.65.2",
     "electron-tabs": "^0.15.0"
   }

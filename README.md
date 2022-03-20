@@ -1,8 +1,8 @@
 # SkyIDE
  An IDE
 
-author : caotianlang , a middle school student in China
+author :  Cao Tianlang , a middle school student from China
 
-This  ide is made of Electron!
+This IDE is made of Electron!
 
 If you like it, please give me a star! Thanks

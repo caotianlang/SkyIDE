@@ -1,5 +1,6 @@
 const {app,BrowserWindow} = require("electron")
 const TabGroup = require("electron-tabs")
+const Path = require('path')
 
 function createWindow(){
     const win = new BrowserWindow({
@@ -14,13 +15,7 @@ function createWindow(){
 }
 
 app.whenReady().then(()=> {
-    createWindow()
-    let tabGroup = new TabGroup()
-    let tab = tabGroup.addTab({
-        title: "Start",
-        src: "http://electron.atom.io",
-        visible: true
-    })    
+    createWindow()    
     app.on('activate', function(){
         if(BrowerWindow.getAllWindows().length === 0) createWindow()
     })
